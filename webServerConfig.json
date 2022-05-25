@@ -10,6 +10,8 @@
     "address": "0x6212e88DBE81568D634afBa6E3347457c97b64C8"
   },
   "pricingUnit": "ETH",
+  "whitelistAnnouncementTimeDisplayIndex": 1,
+  "walletOptions": ["MetaMask"],
   "whitelistAnnouncementTime": "2022-05-03T01:00:00.000Z",
   "unblindTime": "2022-12-31T15:59:00.000Z",
   "whitelistSales": [
@@ -38,5 +40,5 @@
     "endAt": "2022-12-31T10:00:00.000Z",
     "limitPerTx": 10
   },
-  "descriptionAttribute": "description"
+  "descriptionAttribute": "Weapon Description"
 }
