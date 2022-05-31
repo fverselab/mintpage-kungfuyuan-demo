@@ -3,7 +3,8 @@
     "chainId": 4,
     "jsonRpc": "https://rinkeby.infura.io/v3/84842078b09946638c03157f83405213",
     "scanName": "Etherscan",
-    "scanUrl": "https://rinkeby.etherscan.io"
+    "scanUrl": "https://rinkeby.etherscan.io",
+    "displayName": "Rinkeby Test Network"
   },
   "contract": {
     "type": "ERC721",
